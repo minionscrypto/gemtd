@@ -1,7 +1,9 @@
 {
+  "id": "/gemtd",
   "name": "GemTD",
   "short_name": "GemTD",
-  "start_url": "/GemTD",
+  "start_url": "/gemtd",
+  "scope": "/gemtd",
   "display": "standalone",
   "background_color": "#EDADFF",
   "theme_color": "#EDADFF",
