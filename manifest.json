@@ -1,0 +1,15 @@
+{
+  "name": "GemTD",
+  "short_name": "GemTD",
+  "start_url": "/GemTD",
+  "display": "standalone",
+  "background_color": "#EDADFF",
+  "theme_color": "#EDADFF",
+  "icons": [
+    {
+      "src": "./gemtd.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
