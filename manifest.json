@@ -5,6 +5,7 @@
   "start_url": "/gemtd",
   "scope": "/gemtd",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#EDADFF",
   "theme_color": "#EDADFF",
   "icons": [
